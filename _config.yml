@@ -13,13 +13,13 @@ menu:
 
 #### Widgets
 widgets: 
-- github-card
+#- github-card
 - category
 - tag
 #- links
-- douban
+#- douban
 - rss
-#- tagcloud
+- tagcloud
 ## provide eight widgets:github-card,category,tag,rss,archive,tagcloud,links,weibo
 
 #### RSS
